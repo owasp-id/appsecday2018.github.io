@@ -2,7 +2,7 @@ title: Your Title
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "appsecday2018.github.io" # the base hostname & protocol for your site
+url: "https://owasp-id.github.io/appsecday2018.github.io/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
